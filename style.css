@@ -1,0 +1,44 @@
+html body{
+  background-color: #DCD2D3;
+}
+
+body{
+  margin: 10px;
+  
+}
+
+.err-text{
+  color: red !important;;
+}
+
+.hide {
+  display: none;
+}
+
+.wrapper {
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+#setHexBtn {
+  background-color: #827C7C;
+  border-color: #827C7C;
+  
+}
+
+#setRGBBtn {
+  background-color: #827C7C;
+  border-color: #827C7C;
+  
+}
+
+#coloredDiv {
+  height: 10rem;
+  width: 10rem;
+  margin: auto;
+  padding: 10px;
+}
+
+.title{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
